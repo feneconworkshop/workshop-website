@@ -82,6 +82,7 @@ blockquote {
 .speaker-photo-box {
   flex: 0 0 220px;
   text-align: center;
+  padding-top: 2rem;
 }
 
 .speaker-photo {
@@ -115,42 +116,30 @@ blockquote {
   font-style: italic;
 }
 
-/* Important dates table: remove horizontal rules */
-.important-dates table {
+/* Important dates table: keep only the header and final horizontal rules */
+.important-dates-table {
   width: 100%;
   border-collapse: collapse;
   border-top: none !important;
   border-bottom: 1px solid #ddd !important;
-}
-
-.important-dates th,
-.important-dates td {
-  border: none !important;
-  padding: 0.35rem 1.25rem 0.35rem 0;
-}
-
-.important-dates thead tr {
-  border-bottom: 1px solid #ddd !important;
-}
-
-.important-dates tbody tr {
-  border: none !important;
-}
-
-.important-dates tbody tr:last-child {
-  border-bottom: 1px solid #ddd !important;
-}
-.important-dates-table {
-  border-collapse: collapse;
-  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .important-dates-table th,
 .important-dates-table td {
+  border: none !important;
   padding: 0.35rem 1.25rem 0.35rem 0;
 }
 
-/* Align speaker photos with the speaker name/bio in the current columns layout */
-.columns .speaker-photo {
-  margin-top: 1.5rem;
+.important-dates-table thead tr {
+  border-bottom: 1px solid #ddd !important;
+}
+
+.important-dates-table tbody tr {
+  border: none !important;
+}
+
+.important-dates-table tbody tr:last-child {
+  border-bottom: 1px solid #ddd !important;
 }
