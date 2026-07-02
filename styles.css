@@ -57,3 +57,8 @@ blockquote {
   border-left: 3px solid #ccc;
   padding-left: 1rem;
 }
+
+.speaker-photo {
+  border-radius: 50%;
+  object-fit: cover;
+}

@@ -35,11 +35,11 @@
     "text": "Participation is free of charge, but registration is required. Spaces may be limited."
   },
   {
-    "objectID": "registration.html#registration-link",
-    "href": "registration.html#registration-link",
+    "objectID": "registration.html#registration",
+    "href": "registration.html#registration",
     "title": "Registration",
-    "section": "Registration link",
-    "text": "Registration link\nRegister here"
+    "section": "Registration",
+    "text": "Registration\nRegistration will open soon. Please check back here for the registration link and further details."
   },
   {
     "objectID": "index.html#the-economics-of-social-conflict-historical-insights-and-new-evidence",
@@ -95,21 +95,7 @@
     "href": "call-for-papers.html#submission-guidelines",
     "title": "Call for Papers",
     "section": "Submission guidelines",
-    "text": "Submission guidelines\nWe invite submissions of papers, including preliminary work, provided they are submitted in paper format. Submissions should include:\n\ntitle;\nauthor name(s);\ninstitutional affiliation(s);\nabstract;\ncontact information."
-  },
-  {
-    "objectID": "call-for-papers.html#important-dates",
-    "href": "call-for-papers.html#important-dates",
-    "title": "Call for Papers",
-    "section": "Important dates",
-    "text": "Important dates\n\n\n\nEvent\nDate\n\n\n\n\nSubmission deadline\n15 August 2026\n\n\nNotification of acceptance\n30 August 2026\n\n\nConfirmation deadline\n20 September 2026\n\n\nWorkshop dates\n26–27 November 2026"
-  },
-  {
-    "objectID": "call-for-papers.html#submission-link",
-    "href": "call-for-papers.html#submission-link",
-    "title": "Call for Papers",
-    "section": "Submission link",
-    "text": "Submission link\nTo submit, please fill out the online form at:\nPaper Submission"
+    "text": "Submission guidelines\nTo submit, please fill out the online form at:\nPaper Submission"
   },
   {
     "objectID": "call-for-papers.html#funding",
@@ -117,6 +103,13 @@
     "title": "Call for Papers",
     "section": "Funding",
     "text": "Funding\nLimited financial support may be available for accepted paper presenters. Please indicate your need for financial support in the submission form."
+  },
+  {
+    "objectID": "call-for-papers.html#important-dates",
+    "href": "call-for-papers.html#important-dates",
+    "title": "Call for Papers",
+    "section": "Important dates",
+    "text": "Important dates\n\n\n\nEvent\nDate\n\n\n\n\nSubmission deadline\n15 August 2026\n\n\nNotification of acceptance\n30 August 2026\n\n\nConfirmation deadline\n20 September 2026\n\n\nWorkshop dates\n26–27 November 2026"
   },
   {
     "objectID": "contact.html",
@@ -137,35 +130,28 @@
     "href": "programme.html",
     "title": "Programme",
     "section": "",
-    "text": "The programme will be updated as speakers and sessions are confirmed."
+    "text": "The full workshop schedule will be announced soon."
   },
   {
-    "objectID": "programme.html#day-1-26-november-2026",
-    "href": "programme.html#day-1-26-november-2026",
+    "objectID": "programme.html#schedule",
+    "href": "programme.html#schedule",
     "title": "Programme",
-    "section": "Day 1 — 26 November 2026",
-    "text": "Day 1 — 26 November 2026\n\n\n\nTime\nActivity\n\n\n\n\n09:00–09:30\nRegistration\n\n\n09:30–11:00\nLecture for students\n\n\n11:00–12:30\nAcademic meeting\n\n\n12:30–13:45\nAcedemic lunch\n\n\n13:45–14:00\nCoffee break\n\n\n14:00–16:00\nSession 1\n\n\n16:00–16:15\nCoffee break\n\n\n16:15–18:15\nSession 2\n\n\n19:30\nWorkshop’s dinner"
-  },
-  {
-    "objectID": "programme.html#day-2-2-november-2026",
-    "href": "programme.html#day-2-2-november-2026",
-    "title": "Programme",
-    "section": "Day 2 — 2 November 2026",
-    "text": "Day 2 — 2 November 2026\n\n\n\nTime\nActivity\n\n\n\n\n09:00–09:30\nCoffee\n\n\n09:30–11:00\nSession 3\n\n\n11:00–11:15\nCoffee break\n\n\n11:15–12:45\nSession 4\n\n\n12:45–14:30\nLunch\n\n\n14:30–16:00\nClosing remarks"
+    "section": "",
+    "text": "The full workshop schedule will be announced soon."
   },
   {
     "objectID": "speakers.html",
     "href": "speakers.html",
     "title": "Speakers",
     "section": "",
-    "text": "University of California – Los Angeles\nMichela Giorcelli is a Professor in the Department of Economics at the University of California – Los Angeles. She is also a Faculty Associate at the National Bureau of Economic Research, and a research affiliate at CEPR, CESifo, IZA, J-PAL and CCPR. She serves as an Associate Editor at the Journal of Economic History. She holds a PhD in Economics from Stanford University.\nProf. Giorcelli is an economic historian and an applied-micro economist, whose research focuses on the managerial and technological drivers of productivity and innovation in the long-run run. Her book project “Professionals and Productivity: the Diffusion of Soft Technologies during and after WWII”, under contract with Princeton University Press, analyzes the role of WWII in spurring management practices adoption in the US and their diffusion in Europe and Japan in the war aftermath.\n\n\n\nUniversity of Pittsburgh\nAndy Ferrara is an assistant professor of economics at the University of Pittsburgh. His research lies at the intersection of economic history, labour economics, and political economy with a focus on discrimination, internal and forced migration, and the consequences of violent conflicts, using state-of-the-art data science and causal inference methods.\n\n\n\nHarvard University\nRoya Talibova is the Sultan Qaboos bin Said of Oman Assistant Professor of Public Policy at John F. Kennedy School of Government at Harvard University. Her research and teaching focus on political violence and its long-run effects on political economy and development, historical political economy, and quantitative methods. Talibova studies combat motivation in authoritarian regimes and the ways in which repression and ethnic identity interact with individual and group combat experiences."
+    "text": "University of California – Los Angeles\nMichela Giorcelli is a Professor in the Department of Economics at the University of California – Los Angeles. She is also a Faculty Associate at the National Bureau of Economic Research, and a research affiliate at CEPR, CESifo, IZA, J-PAL and CCPR. She serves as an Associate Editor at the Journal of Economic History. She holds a PhD in Economics from Stanford University. She is an economic historian and an applied-micro economist, whose research focuses on the managerial and technological drivers of productivity and innovation in the long run.\n\n\n\n\n\n\n\n\n\nUniversity of Pittsburgh\nAndy Ferrara is an assistant professor of economics at the University of Pittsburgh. His research lies at the intersection of economic history, labour economics, and political economy with a focus on discrimination, internal and forced migration, and the consequences of violent conflicts, using state-of-the-art data science and causal inference methods.\n\n\n\n\n\n\n\n\n\nHarvard University\nRoya Talibova is the Sultan Qaboos bin Said of Oman Assistant Professor of Public Policy at John F. Kennedy School of Government at Harvard University. Her research and teaching focus on political violence and its long-run effects on political economy and development, historical political economy, and quantitative methods. Talibova studies combat motivation in authoritarian regimes and the ways in which repression and ethnic identity interact with individual and group combat experiences."
   },
   {
     "objectID": "speakers.html#keynote-speakers",
     "href": "speakers.html#keynote-speakers",
     "title": "Speakers",
     "section": "",
-    "text": "University of California – Los Angeles\nMichela Giorcelli is a Professor in the Department of Economics at the University of California – Los Angeles. She is also a Faculty Associate at the National Bureau of Economic Research, and a research affiliate at CEPR, CESifo, IZA, J-PAL and CCPR. She serves as an Associate Editor at the Journal of Economic History. She holds a PhD in Economics from Stanford University.\nProf. Giorcelli is an economic historian and an applied-micro economist, whose research focuses on the managerial and technological drivers of productivity and innovation in the long-run run. Her book project “Professionals and Productivity: the Diffusion of Soft Technologies during and after WWII”, under contract with Princeton University Press, analyzes the role of WWII in spurring management practices adoption in the US and their diffusion in Europe and Japan in the war aftermath.\n\n\n\nUniversity of Pittsburgh\nAndy Ferrara is an assistant professor of economics at the University of Pittsburgh. His research lies at the intersection of economic history, labour economics, and political economy with a focus on discrimination, internal and forced migration, and the consequences of violent conflicts, using state-of-the-art data science and causal inference methods.\n\n\n\nHarvard University\nRoya Talibova is the Sultan Qaboos bin Said of Oman Assistant Professor of Public Policy at John F. Kennedy School of Government at Harvard University. Her research and teaching focus on political violence and its long-run effects on political economy and development, historical political economy, and quantitative methods. Talibova studies combat motivation in authoritarian regimes and the ways in which repression and ethnic identity interact with individual and group combat experiences."
+    "text": "University of California – Los Angeles\nMichela Giorcelli is a Professor in the Department of Economics at the University of California – Los Angeles. She is also a Faculty Associate at the National Bureau of Economic Research, and a research affiliate at CEPR, CESifo, IZA, J-PAL and CCPR. She serves as an Associate Editor at the Journal of Economic History. She holds a PhD in Economics from Stanford University. She is an economic historian and an applied-micro economist, whose research focuses on the managerial and technological drivers of productivity and innovation in the long run.\n\n\n\n\n\n\n\n\n\nUniversity of Pittsburgh\nAndy Ferrara is an assistant professor of economics at the University of Pittsburgh. His research lies at the intersection of economic history, labour economics, and political economy with a focus on discrimination, internal and forced migration, and the consequences of violent conflicts, using state-of-the-art data science and causal inference methods.\n\n\n\n\n\n\n\n\n\nHarvard University\nRoya Talibova is the Sultan Qaboos bin Said of Oman Assistant Professor of Public Policy at John F. Kennedy School of Government at Harvard University. Her research and teaching focus on political violence and its long-run effects on political economy and development, historical political economy, and quantitative methods. Talibova studies combat motivation in authoritarian regimes and the ways in which repression and ethnic identity interact with individual and group combat experiences."
   },
   {
     "objectID": "speakers.html#presenters",

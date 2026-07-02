@@ -18,13 +18,13 @@ We particularly encourage submissions on topics including, but not limited to:
 
 ## Submission guidelines
 
-We invite submissions of papers, including preliminary work, provided they are submitted in paper format. Submissions should include:
+To submit, please fill out the online form at:
 
-- title;
-- author name(s);
-- institutional affiliation(s);
-- abstract;
-- contact information.   
+[Paper Submission](https://docs.google.com/forms/d/e/1FAIpQLSemsPAlK0nQ_QhdNoiLxHG3oli-oVkK5oGdV4VPwwL_C8TURw/viewform?usp=dialog)   
+
+## Funding
+
+Limited financial support may be available for accepted paper presenters. Please indicate your need for financial support in the submission form.
 
 ## Important dates
 
@@ -34,13 +34,3 @@ We invite submissions of papers, including preliminary work, provided they are s
 | Notification of acceptance | 30 August 2026 |
 | Confirmation deadline | 20 September 2026 |
 | Workshop dates | 26–27 November 2026 |
-
-## Submission link
-
-To submit, please fill out the online form at:
-
-[Paper Submission](https://example.com)
-
-## Funding
-
-Limited financial support may be available for accepted paper presenters. Please indicate your need for financial support in the submission form.

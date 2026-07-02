@@ -2,29 +2,6 @@
 title: "Programme"
 ---
 
-The programme will be updated as speakers and sessions are confirmed.
+## Schedule
 
-## Day 1 — 26 November 2026
-
-| Time | Activity |
-|---|---|
-| 09:00–09:30 | Registration |
-| 09:30–11:00 | Lecture for students |
-| 11:00–12:30 | Academic meeting |
-| 12:30–13:45 | Acedemic lunch |
-| 13:45–14:00 | Coffee break |
-| 14:00–16:00 | Session 1 |
-| 16:00–16:15 | Coffee break |
-| 16:15–18:15 | Session 2 |
-| 19:30 | Workshop's dinner |
-
-## Day 2 — 2 November 2026
-
-| Time | Activity |
-|---|---|
-| 09:00–09:30 | Coffee |
-| 09:30–11:00 | Session 3 |
-| 11:00–11:15 | Coffee break |
-| 11:15–12:45 | Session 4 |
-| 12:45–14:30 | Lunch |
-| 14:30–16:00 | Closing remarks |
+The full workshop schedule will be announced soon.
