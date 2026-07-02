@@ -3,13 +3,14 @@ title: "FEN Economics Workshop"
 ---
 
 
-![](images/banner.jpg)
+![](images/banner2.jpg)
 
 ::: {.banner-caption}
 Section of The triumph of Death - Pieter Bruegel “the Elder”, Ca. 1562.
 :::
 
-## The Economics of Social Conflict: Historical Insights and New Evidence
+## The Economics of Social Conflict:  
+Historical Insights and New Evidence
 
 **Date:** November 26–27, 2026  
 **Location:** University of Chile - [Faculty of Economics and Business](https://fen.uchile.cl/en/home/) / Santiago / Chile  
@@ -47,9 +48,9 @@ This workshop focuses on research in economic history that examines the origins,
 
 ## Keynote speakers
 
-- Michela Giorcelli, UCLA
+- Michela Giorcelli, University of California Los Angeles
 - Andy Ferrara, University of Pittsburgh
-- Roya Talibova, Harvard Kennedy School
+- Roya Talibova, Harvard University
 
 ## Organizers
 
