@@ -104,3 +104,35 @@ blockquote {
     width: 100%;
   }
 }
+
+/* Banner caption */
+.banner-caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+
+/* Important dates table: remove horizontal rules */
+.important-dates-table,
+.important-dates-table thead,
+.important-dates-table tbody,
+.important-dates-table tr,
+.important-dates-table th,
+.important-dates-table td {
+  border: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+}
+
+.important-dates-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.important-dates-table th,
+.important-dates-table td {
+  padding: 0.35rem 1.25rem 0.35rem 0;
+}

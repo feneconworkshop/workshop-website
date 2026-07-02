@@ -2,39 +2,17 @@
 title: "FEN Economics Workshop"
 ---
 
-<style>
-.banner-caption {
-  text-align: center;
-  font-size: 0.9rem;
-  color: #666;
-  margin-top: 0.35rem;
-  margin-bottom: 1.5rem;
-}
-
-.important-dates-table,
-.important-dates-table th,
-.important-dates-table td {
-  border: none !important;
-}
-
-.important-dates-table {
-  border-collapse: collapse;
-}
-
-.important-dates-table th,
-.important-dates-table td {
-  padding: 0.35rem 1.25rem 0.35rem 0;
-}
-</style>
 
 ![](images/banner.jpg)
 
-<p class="banner-caption">The triumph of Death - Pieter Bruegel “the Elder”, Ca. 1562</p>
+::: {.banner-caption}
+The triumph of Death - Pieter Bruegel “the Elder”, Ca. 1562
+:::
 
 ## The Economics of Social Conflict:
 Historical Insights and New Evidence
 
-**Date:** November 26–2, 2026  
+**Date:** November 26–27, 2026  
 **Location:** University of Chile - [Faculty of Economics and Business](https://fen.uchile.cl/en/home/) / Santiago / Chile  
 
 This workshop focuses on research in economic history that examines the origins, dynamics, and consequences of social conflict in a broad sense, encompassing both societal disputes among groups and large-scale armed conflicts.
