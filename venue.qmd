@@ -11,8 +11,8 @@ Address: Diag. Paraguay 257, Santiago, Región Metropolitana, Chile
 
 The following public transportation lines have routes that pass near the Faculty of Economics and Business, University of Chile:
 
-Bus: 210, 213E, 406, 422, 426.
-Subway: Lines 1 and 5.
+- Bus: 210, 213E, 406, 422, 426.
+- Subway: Lines 1 and 5.
 
 ## Accommodation
 
