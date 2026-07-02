@@ -116,17 +116,30 @@ blockquote {
 }
 
 /* Important dates table: remove horizontal rules */
-.important-dates-table,
-.important-dates-table thead,
-.important-dates-table tbody,
-.important-dates-table tr,
-.important-dates-table th,
-.important-dates-table td {
-  border: none !important;
+.important-dates table {
+  width: 100%;
+  border-collapse: collapse;
   border-top: none !important;
-  border-bottom: none !important;
+  border-bottom: 1px solid #ddd !important;
 }
 
+.important-dates th,
+.important-dates td {
+  border: none !important;
+  padding: 0.35rem 1.25rem 0.35rem 0;
+}
+
+.important-dates thead tr {
+  border-bottom: 1px solid #ddd !important;
+}
+
+.important-dates tbody tr {
+  border: none !important;
+}
+
+.important-dates tbody tr:last-child {
+  border-bottom: 1px solid #ddd !important;
+}
 .important-dates-table {
   border-collapse: collapse;
   width: 100%;
@@ -135,4 +148,9 @@ blockquote {
 .important-dates-table th,
 .important-dates-table td {
   padding: 0.35rem 1.25rem 0.35rem 0;
+}
+
+/* Align speaker photos with the speaker name/bio in the current columns layout */
+.columns .speaker-photo {
+  margin-top: 1.5rem;
 }
