@@ -28,9 +28,29 @@ Limited financial support may be available for accepted paper presenters. Please
 
 ## Important dates
 
-| Event | Date |
-|---|---|
-| Submission deadline | 15 August 2026 |
-| Notification of acceptance | 30 August 2026 |
-| Confirmation deadline | 20 September 2026 |
-| Workshop dates | 26–27 November 2026 |
+<table class="important-dates-table">
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Submission deadline</td>
+      <td>15 August 2026</td>
+    </tr>
+    <tr>
+      <td>Notification of acceptance</td>
+      <td>30 August 2026</td>
+    </tr>
+    <tr>
+      <td>Confirmation deadline</td>
+      <td>20 September 2026</td>
+    </tr>
+    <tr>
+      <td>Workshop dates</td>
+      <td>26–27 November 2026</td>
+    </tr>
+  </tbody>
+</table>
