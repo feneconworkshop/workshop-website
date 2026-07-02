@@ -4,8 +4,8 @@ title: "Speakers"
 
 ## Keynote speakers
 
-::: {.columns}
-::: {.column width="70%"}
+::: {.speaker-card}
+::: {.speaker-bio}
 
 ### [Michela Giorcelli](http://www.giorcellimichela.com/)
 
@@ -14,15 +14,15 @@ title: "Speakers"
 Michela Giorcelli is a Professor in the Department of Economics at the University of California – Los Angeles. She is also a Faculty Associate at the National Bureau of Economic Research, and a research affiliate at CEPR, CESifo, IZA, J-PAL and CCPR. She serves as an Associate Editor at the Journal of Economic History. She holds a PhD in Economics from Stanford University. She is an economic historian and an applied-micro economist, whose research focuses on the managerial and technological drivers of productivity and innovation in the long run.
 
 :::
-::: {.column width="30%"}
+::: {.speaker-photo-box}
 
-![](images/giorcelli.jpg){.speaker-photo fig-alt="Michela Giorcelli" width="180px" height="180px"}
+![](images/giorcelli.jpg){.speaker-photo fig-alt="Michela Giorcelli"}
 
 :::
 :::
 
-::: {.columns}
-::: {.column width="70%"}
+::: {.speaker-card}
+::: {.speaker-bio}
 
 ### [Andy Ferrara](https://andreas-ferrara.com/)
 
@@ -31,15 +31,15 @@ Michela Giorcelli is a Professor in the Department of Economics at the Universit
 Andy Ferrara is an assistant professor of economics at the University of Pittsburgh. His research lies at the intersection of economic history, labour economics, and political economy with a focus on discrimination, internal and forced migration, and the consequences of violent conflicts, using state-of-the-art data science and causal inference methods.
 
 :::
-::: {.column width="30%"}
+::: {.speaker-photo-box}
 
-![](images/ferrara.jpg){.speaker-photo fig-alt="Andy Ferrara" width="180px" height="180px"}
+![](images/ferrara.jpg){.speaker-photo fig-alt="Andy Ferrara"}
 
 :::
 :::
 
-::: {.columns}
-::: {.column width="70%"}
+::: {.speaker-card}
+::: {.speaker-bio}
 
 ### [Roya Talibova](https://www.royatalibova.com/)
 
@@ -48,9 +48,9 @@ Andy Ferrara is an assistant professor of economics at the University of Pittsbu
 Roya Talibova is the Sultan Qaboos bin Said of Oman Assistant Professor of Public Policy at John F. Kennedy School of Government at Harvard University. Her research and teaching focus on political violence and its long-run effects on political economy and development, historical political economy, and quantitative methods. Talibova studies combat motivation in authoritarian regimes and the ways in which repression and ethnic identity interact with individual and group combat experiences.
 
 :::
-::: {.column width="30%"}
+::: {.speaker-photo-box}
 
-![](images/talibova.jpg){.speaker-photo fig-alt="Roya Talibova" width="180px" height="180px"}
+![](images/talibova.jpg){.speaker-photo fig-alt="Roya Talibova"}
 
 :::
 :::
