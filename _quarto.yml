@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "FEW"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Call for Papers"
+        href: call-for-papers.qmd
+      - text: "Programme"
+        href: programme.qmd
+      - text: "Speakers"
+        href: speakers.qmd
+      - text: "Venue"
+        href: venue.qmd
+      - text: "Registration"
+        href: registration.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full

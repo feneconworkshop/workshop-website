@@ -1,0 +1,9 @@
+---
+title: "Registration"
+---
+
+Participation is free of charge, but registration is required. Spaces may be limited.
+
+## Registration link
+
+[Register here](https://example.com)

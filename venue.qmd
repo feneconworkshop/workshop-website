@@ -1,0 +1,23 @@
+---
+title: "Venue"
+---
+
+The workshop will take place at:
+
+**Faculty of Economics & Business, University of Chile**  
+Address: Diag. Paraguay 257, Santiago, Región Metropolitana, Chile
+
+## How to get there
+
+The following public transportation lines have routes that pass near the Faculty of Economics and Business, University of Chile:
+
+Bus: 210, 213E, 406, 422, 426.
+Subway: Lines 1 and 5.
+
+## Accommodation
+
+Participants are responsible for arranging their own accommodation. Suggested nearby hotels will be listed soon.
+
+## Map
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.2648964787127!2d-70.6365515!3d-33.442404499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c59d760c4eb5%3A0x33acf383a02353be!2sFacultad%20de%20Econom%C3%ADa%20y%20Negocios%20(FEN)%20de%20la%20Universidad%20de%20Chile!5e0!3m2!1ses-419!2scl!4v1783006569665!5m2!1ses-419!2scl" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -1,0 +1,59 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  max-width: 950px;
+  margin: auto;
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+h1 {
+  font-weight: normal;
+  letter-spacing: 0.7px;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-weight: normal;
+  margin-top: 2rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3rem;
+}
+
+h3 {
+  font-weight: normal;
+  margin-top: 1.5rem;
+}
+
+.navbar-title {
+  font-size: 1.2rem;
+  letter-spacing: 0.5px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+table {
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 3px solid #ccc;
+  padding-left: 1rem;
+}
