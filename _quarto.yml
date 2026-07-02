@@ -5,6 +5,7 @@ project:
 website:
   title: "FEW"
   navbar:
+    logo: images/logo-university.png
     left:
       - text: "Home"
         href: index.qmd
