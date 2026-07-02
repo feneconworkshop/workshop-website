@@ -58,7 +58,11 @@ blockquote {
   padding-left: 1rem;
 }
 
+.columns {
+  align-items: flex-start;
+}
+
 .speaker-photo {
-  border-radius: 50%;
-  object-fit: cover;
+  display: block;
+  margin-top: 0;
 }
