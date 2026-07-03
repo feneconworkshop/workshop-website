@@ -143,3 +143,7 @@ blockquote {
 .important-dates-table tbody tr:last-child {
   border-bottom: 1px solid #ddd !important;
 }
+
+.quarto-title .subtitle {
+  text-align: center;
+}
