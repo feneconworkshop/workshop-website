@@ -28,7 +28,7 @@ Michela Giorcelli is a Professor in the Department of Economics at the Universit
 
 **University of Pittsburgh**
 
-Andy Ferrara is an assistant professor of economics at the University of Pittsburgh. His research lies at the intersection of economic history, labour economics, and political economy with a focus on discrimination, internal and forced migration, and the consequences of violent conflicts, using state-of-the-art data science and causal inference methods.
+Andy Ferrara is an Associate Professor of Economics at the University of Pittsburgh. His research lies at the intersection of economic history, labour economics, and political economy with a focus on discrimination, internal and forced migration, and the consequences of violent conflicts, using state-of-the-art data science and causal inference methods.
 
 :::
 ::: {.speaker-photo-box}

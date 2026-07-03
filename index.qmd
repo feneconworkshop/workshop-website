@@ -1,5 +1,6 @@
 ---
 title: "FEN Economics Workshop"
+subtitle: "Department of Economics, FEN, Universidad de Chile"
 ---
 
 
@@ -14,7 +15,9 @@ Section of The triumph of Death - Pieter Bruegel “the Elder”, Ca. 1562.
 **Date:** November 26–27, 2026  
 **Location:** University of Chile - [Faculty of Economics and Business](https://fen.uchile.cl/en/home/) / Santiago / Chile  
 
-This workshop focuses on research in economic history that examines the origins, dynamics, and consequences of social conflict in a broad sense, encompassing both societal disputes among groups and large-scale armed conflicts.
+This workshop brings together economic historians, political economists, and applied microeconomists studying the origins, dynamics, and consequences of social conflict, broadly defined — from labor disputes, gender and racial inequality, and struggles over political power, to wars, political violence, and their long-run economic and institutional legacies.
+
+We welcome both historical and contemporary evidence, and are especially interested in work that combines rigorous empirical methods with new data sources to shed light on the political economy of conflict — how struggles over power and resources shape economic and social outcomes, and vice versa. The workshop aims to foster dialogue across economic history, political economy, and applied microeconomics.
 
 ## Important dates
 
