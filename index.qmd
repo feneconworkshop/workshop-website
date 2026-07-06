@@ -3,13 +3,6 @@ title: "FEN Economics Workshop"
 subtitle: "Department of Economics, FEN, Universidad de Chile"
 ---
 
-
-![](images/banner.jpg)
-
-::: {.banner-caption}
-Section of The triumph of Death - Pieter Bruegel “the Elder”, Ca. 1562.
-:::
-
 ## The Economics of Social Conflict:                                       Historical Insights and New Evidence
 
 **Date:** November 26–27, 2026  
