@@ -3,6 +3,14 @@ title: "FEN Economics Workshop"
 subtitle: "Department of Economics, FEN, Universidad de Chile"
 ---
 
+
+![](images/banner.png){.banner-img}
+
+::: {.banner-caption}
+Sign of Abandonment 20, 2017. Oil and cold wax on canvas. 100 x 200 inches.<br>
+Image © copyright Jorge Tacla. Private Collection. Courtesy of Jorge Tacla Studio
+:::
+
 ## The Economics of Social Conflict:                                       Historical Insights and New Evidence
 
 **Date:** November 26–27, 2026  
