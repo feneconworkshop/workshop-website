@@ -1,6 +1,6 @@
 ---
 title: "FEN Economics Workshop"
-subtitle: "Department of Economics, FEN, Universidad de Chile"
+subtitle: "Department of Economics, FEN, University of Chile"
 ---
 
 

@@ -106,10 +106,16 @@ blockquote {
   }
 }
 
+.banner-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* Banner caption */
 .banner-caption {
-  text-align: center;
-  font-size: 0.9rem;
+  text-align: right;
+  font-size: 0.85rem;
   color: #666;
   margin-top: -1rem;
   margin-bottom: 1.5rem;
