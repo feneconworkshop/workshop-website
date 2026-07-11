@@ -27,7 +27,7 @@ h3 {
 }
 
 .navbar-title {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   letter-spacing: 0.5px;
 }
 
@@ -177,4 +177,46 @@ blockquote {
   padding-top: 0;
   padding-bottom: 0;
   transform: translateY(10px);
+}
+
+/* Smaller navbar on phones and tablets */
+@media (max-width: 768px) {
+  .navbar {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    min-height: 0 !important;
+  }
+
+  .navbar .container-fluid,
+  .navbar .navbar-container {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    min-height: 0 !important;
+  }
+
+  .navbar .navbar-brand {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  .navbar .navbar-brand img {
+    max-height: 38px !important;
+    width: auto;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  .navbar-toggler {
+    padding: 0.15rem 0.35rem !important;
+    font-size: 0.85rem !important;
+  }
+
+  .navbar .nav-link {
+    padding-top: 0.15rem !important;
+    padding-bottom: 0.15rem !important;
+    line-height: 1.1;
+    font-size: 1rem;
+  }
 }
