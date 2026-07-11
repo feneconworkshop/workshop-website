@@ -32,15 +32,15 @@ We welcome both historical and contemporary evidence, and are especially interes
   <tbody>
     <tr>
       <td>Submission deadline</td>
-      <td>15 August 2026</td>
-    </tr>
-    <tr>
-      <td>Notification of acceptance</td>
       <td>30 August 2026</td>
     </tr>
     <tr>
+      <td>Notification of acceptance</td>
+      <td>7 September 2026</td>
+    </tr>
+    <tr>
       <td>Confirmation deadline</td>
-      <td>20 September 2026</td>
+      <td>30 September 2026</td>
     </tr>
     <tr>
       <td>Workshop dates</td>

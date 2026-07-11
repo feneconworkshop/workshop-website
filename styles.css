@@ -115,7 +115,7 @@ blockquote {
 /* Banner caption */
 .banner-caption {
   text-align: right;
-  font-size: 0.85rem;
+  font-size: 0.7rem;
   color: #666;
   margin-top: -1rem;
   margin-bottom: 1.5rem;
@@ -152,4 +152,23 @@ blockquote {
 
 .quarto-title .subtitle {
   text-align: center;
+}
+
+.navbar-brand img,
+.navbar-logo {
+  max-height: 55px;
+  width: auto;
+}
+
+/* Vertically align navbar links with the logo */
+.navbar .navbar-nav {
+  align-items: center;
+}
+
+.navbar .nav-link {
+  display: flex;
+  align-items: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  transform: translateY(10px);
 }
