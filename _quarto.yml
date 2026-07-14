@@ -4,8 +4,10 @@ project:
 
 website:
   title: "FEW"
+  favicon: images/favicon.png
   navbar:
-    logo: images/logo-university.png
+    title: false
+    logo: images/logo-university1.png
     left:
       - text: "Home"
         href: index.qmd
