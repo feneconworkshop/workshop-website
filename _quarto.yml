@@ -29,5 +29,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    anchor-sections: false
     page-layout: full
     include-after-body: analytics.html
