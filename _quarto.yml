@@ -13,7 +13,7 @@ website:
         href: index.qmd
       - text: "Call for Papers"
         href: call-for-papers.qmd
-      - text: "Programme"
+      - text: "Program"
         href: programme.qmd
       - text: "Speakers"
         href: speakers.qmd
