@@ -2,6 +2,103 @@
 title: "Programme"
 ---
 
-## Schedule
+**Venue:** Room P-301, School of Business and Economics
 
-The full workshop schedule will be announced soon.
+All times are in Chile Time (UTC−3). Presenters will have 25 minutes for their presentation. Discussants will have 6 minutes for their remarks.
+
+## Wednesday, November 25, 2026
+
+### 14:00–15:30 · Pre-workshop Master/PhD Lecture
+
+**Using AI in Applied Economics**  
+Andreas Ferrara (University of Pittsburgh)
+
+## Thursday, November 26, 2026
+
+**08:30–08:45 · Registration**
+
+**08:45–09:00 · Opening Remarks**
+
+### 09:00–10:45 · Session 1: Fascism, political violence, and their legacies
+
+**Why Follow a Former Leader? Military Hierarchies and the 1936 Spanish Coup**  
+Marcos Salgado (FGV EPGE)  
+Discussant: Luca de Benedictis
+
+**Discrimination, Political Orientation and the Probability of Emigration and Escape: University Professors in Fascist Italy**  
+Luca de Benedictis (Universitas Mercatorum)  
+Discussant: Maurizio Zanardi
+
+**Political Violence, Memory, and National Bias in Consumption: Evidence from Postwar Italy**  
+Maurizio Zanardi (University of Sussex)  
+Discussant: Marcos Salgado
+
+**10:45–11:15 · Coffee Break**
+
+### 11:15–12:45 · Keynote 1: Roya Talibova (Harvard Kennedy School)
+
+TBA
+
+**12:45–14:15 · Lunch**
+
+### 14:15–16:00 · Session 2: Contemporary Conflict
+
+**Exam-Day Disruptions, Test Performance, and University Admission: Evidence from Chile’s Social Unrest**  
+Dante Contreras (University of Chile)  
+Discussant: Lelys Dinarte
+
+**Investing in Human Capital During Wartime: Experimental Evidence from Ukraine**  
+Lelys Dinarte-Díaz (World Bank)  
+Discussant: Francisco Pino
+
+**Gender-based Political Violence and Female Political Participation**  
+Francisco J. Pino (University of Chile)  
+Discussant: Dante Contreras
+
+**16:00–16:30 · Coffee Break**
+
+### 16:30–18:00 · Keynote 2: Andreas Ferrara (University of Pittsburgh)
+
+**America's Hidden Legacy of Racial and Ethnic Expulsions**
+
+**19:30 · Workshop Dinner**
+
+## Friday, November 27, 2026
+
+### 09:00–10:45 · Session 3: Historical institutions, property rights, and conflict
+
+**Internal Fractionalization, Property Rights, and Conflict: Evidence from Indigenous Reservations**  
+Dany Jaimovich (University of Talca)  
+Discussant: Emilio Depetris-Chauvin
+
+**Long-Run Exposure to Centralized Institutions and Contemporary Conflict: Evidence from Sub-Saharan Africa**  
+Emilio Depetris-Chauvin (PUC-Chile)  
+Discussant: Gil do Vigor
+
+**Coercion at the Frontier: Property Rights and Modern Slavery in the Amazon**  
+Gil do Vigor (University of California-Davis)  
+Discussant: Dany Jaimovich
+
+**10:45–11:15 · Coffee Break**
+
+### 11:15–12:45 · Session 4: WWII: mobilization, labor markets, and demographics
+
+**Wartime Mobilization and the Internal Labor Market: Evidence from the Tokyo Civil Service**  
+Keitaro Ninomiya (University of Illinois Urbana-Champaign)  
+Discussant: Ariadna Jou
+
+**Wartime Mobilization, Casualties, and Fertility: Evidence from U.S. Counties during World War II**  
+Ariadna Jou (University of Chile)  
+Discussant: Nathaniel Barlow
+
+**Occupation Effects of World War II Japanese-American Incarceration**  
+Nathaniel Barlow (University of California – Los Angeles)  
+Discussant: Keitaro Ninomiya
+
+**12:45–14:15 · Lunch**
+
+### 14:15–15:45 · Keynote 3: Michela Giorcelli
+
+**The Return(s) of Superstars**
+
+**16:30 · Visit to the Museo de la Memoria**
